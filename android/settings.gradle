@@ -1,0 +1,3 @@
+rootProject.name = 'turfjs_bug_demo'
+
+include ':app'
